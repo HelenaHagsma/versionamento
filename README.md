@@ -1,2 +1,2 @@
 # versionamento
- primeiro exercício sobre versionamento com GitHub Desktop.
+ First exercise about versioning with GitHub Desktop.
